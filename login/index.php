@@ -83,3 +83,9 @@ include "../conexiones/conexion.php";
         </div>
     </body>
 </html>
+<td colspan="2">
+                                ¿No tienes usuario? Registrate haciendo click aqui!
+                                <a href="registro.php">Registrate!!!</a>
+                            </td>
+                        </tr>
+                        <tr>
